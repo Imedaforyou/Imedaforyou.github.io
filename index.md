@@ -136,12 +136,6 @@ sections:
         text: >-
           We started gathering like-minded people and teaching IMEDA with labeled images!
 
-      - image:'#'
-        title: >+
-          January 2024
-          Testing IMEDA
-        text: >-
-          IMEDA knowledge and its performance have been tested by professional gastroenterologists!
 
   - type: contact.html
     section_id: contacts
