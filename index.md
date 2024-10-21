@@ -13,8 +13,8 @@ sections:
   - type: call-to-action.html
     section_id: about
     background_style: bg-primary
-    title: We've got what you need!
-    text: Start Bootstrap has everything you need to get your new website up and running in no time! All of the templates and themes on Start Bootstrap are open source, free to download, and easy to use. No strings attached!
+    title: IMEDA for colorectal cancer
+    text: Imeda can detect colorectal cancer in real-time mode!
     actions:
       - title: Get Started!
         url: '#page-top'
@@ -25,24 +25,24 @@ sections:
     #background_style: bg-info
     title: At Your Service
     services:
-      - title: Sturdy Templates
-        text: Our templates are updated regularly so they don't break.
+      - title: Real-time detection
+        text: Suspicious tissues and lesions are automatically detected and displayed on the main monitor in real time.
         icon: bi-gem text-info
         url: https://startbootstrap.com/
-      - title: Ready to Ship
-        text: You can use this theme as is, or you can make changes!
+      - title: Virtual Detection Support
+        text: An intuitive marker on the screen alerts the user to the presence of a potential lesion in real time to allow for a smooth workflow!
         icon: bi-rocket-takeoff
       - title: Up to Date
         text: We update dependencies to keep things fresh.
         icon: bi-activity
-      - title: Made with Love
-        text: You have to make your websites with love these days!
+      - title: Compatibility
+        text: This device is compatible with all of the endoscopy device brands.
         icon: bi-heart-fill
-      - title: Other 1
-        text: Some not-so long text here.
+      - title: Improve Adenoma Detection Rate (ADR) 
+        text: The system will provide permanent, non-distracted support, may help to detect difficult-to-catch lesions and aims to accelerate the learning curve.
         icon: bi-emoji-heart-eyes
-      - title: Other 2
-        text: Some not-so long text here.
+      - title: Sensitive detection mode
+        text: It can detect diminutive sessile polyps (hard to detect).
         icon: bi-emoji-sunglasses-fill
 
   - type: portfolio.html
@@ -118,37 +118,48 @@ sections:
 
   - type: timeline.html
     section_id: timeline
-    title: Major Achievements!
+    title: IMEDA research road
     background_style: bg-dark text-primary
     last_image: assets/img/timeline-end.png
     actions:
       - image: assets/img/portfolio/thumbnails/1.jpg
         title: >+
-          2017-2018
-          **Humble Beginnings**
+          2020-2023
+          **Data gathering**
         text: >-
-          We begun with small group of people willing to work hard and make our
-          teaching skills worth , in front of all others!
+          We began with a small group of gastroenterologists willing to work hard and gather
+        colonoscopic images in defined protocols!
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
-          November 2019
-          An Coaching started
+          January 2023
+          Training IMEDA
         text: >-
-          We started to gather like minded people and started our stategies
-          and future plans to them. As a result , interested people joined us!
+          We started gathering like-minded people and teaching IMEDA with labeled images!
+
+
+
+      - image: ""
+        title: >+
+          January 2024
+          Testing IMEDA
+        text: >-
+          IMEDA knowledge and its performance have been tested by professional gastroenterologists!
+
+
+
 
   - type: contact.html
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
-      Ready to start your next project with us? Give us a call or send us an email
+      Need to know more about IMEDA? Give us a call or send us an email
       and we will get back to you as soon as possible!
     actions:
-    - title: +1 (202) 555-014
+    - title: +98 (919) 8338910
       icon: bi-telephone-fill
     - title: E-Mail
       icon: bi-envelope-fill
-      url: mailto:contact@yourwebsite.com
+      url: myimedass@gmai.com
     - title: Twitter
       icon: bi-twitter
       url: '#'
