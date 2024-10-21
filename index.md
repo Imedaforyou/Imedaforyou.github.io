@@ -1,10 +1,9 @@
 ---
 layout: home
 header:
-  title: YOUR FAVORITE SOURCE OF FREE BOOTSTRAP THEMES
+  title: YOUR FAVORITE INTELLIGENT ASSISTANT
   text: >
-    Start Bootstrap can help you build better websites using the Bootstrap
-    framework! Just download a theme and start customizing, no strings attached!
+    IMEDA can help you to improve your medical diagnosis at any time of the day!
   action: # action button is optional
     label: Find Out More
     url: '#about'
