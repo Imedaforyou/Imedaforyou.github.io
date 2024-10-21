@@ -127,8 +127,7 @@ sections:
           2020-2023
           **Data gathering**
         text: >-
-          We began with a small group of gastroenterologists willing to work hard and gather
-        colonoscopic images in defined protocols!
+          We began with a small group of gastroenterologists willing to work hard and gather colonoscopic images in defined protocols!
       - image: assets/img/portfolio/thumbnails/2.jpg
         title: >+
           January 2023
