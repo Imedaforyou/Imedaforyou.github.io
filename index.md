@@ -141,8 +141,7 @@ sections:
     section_id: contacts
     title: Let's Get In Touch!
     text: >-
-      Need to know more about IMEDA? Give us a call or send us an email
-      and we will get back to you as soon as possible!
+      Need to know more about IMEDA? Give us a call or send us an email and we will get back to you as soon as possible!
     actions:
     - title: +98 (919) 8338910
       icon: bi-telephone-fill
