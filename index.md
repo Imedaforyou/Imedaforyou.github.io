@@ -56,7 +56,7 @@ sections:
         # img/portfolio/fullsize
         # img/portfolio/thumbnails
         icon: 1.jpg
-        url: '/_includes/blog.html'
+        url: /_includes/blog.html
       - title: Project 2
         text: This is a very short project description.
         icon: 2.jpg
