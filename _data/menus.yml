@@ -14,4 +14,4 @@ header:
 - title: Contacts
   url: /#contacts
 - title: Links
-  url: /_includes/blog.html
+  url: /blog.html
